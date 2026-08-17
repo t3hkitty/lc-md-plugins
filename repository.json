@@ -13,6 +13,30 @@
       "enabledByDefault": true
     },
     {
+      "id": "list-view",
+      "name": "Library Tabular List View Plugin",
+      "version": "1.0.0",
+      "author": "t3hkitty",
+      "description": "Detailed list rows view with cover thumbnails, series badges, chapter metrics, and quick action buttons.",
+      "enabledByDefault": true
+    },
+    {
+      "id": "carousel-view",
+      "name": "3D Interactive Cover Showcase Carousel Plugin",
+      "version": "1.0.0",
+      "author": "t3hkitty",
+      "description": "3D sliding cover flow carousel with active hero card showcase and smooth navigation.",
+      "enabledByDefault": true
+    },
+    {
+      "id": "bookshelf-spines",
+      "name": "Realistic Physical Bookshelf & Spines View Plugin",
+      "version": "1.0.0",
+      "author": "t3hkitty",
+      "description": "Realistic wood-textured mahogany bookshelf with vertical embossed book spines, gold foil titles, and pull-out animations.",
+      "enabledByDefault": true
+    },
+    {
       "id": "custom-monetizer-plugin",
       "name": "Custom Referral & Monetization Plugin Template",
       "version": "1.0.0",
