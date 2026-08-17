@@ -1,0 +1,40 @@
+{
+  "name": "LC-MD Sovereign Official FOSS Plugin Registry",
+  "author": "t3hkitty",
+  "license": "Unlicense / FOSS",
+  "description": "Official community plugin repository for Library Companion MD (LC-MD) v3.8 Sovereign",
+  "plugins": [
+    {
+      "id": "library-view",
+      "name": "Sovereign Grand Library Bookshelf Grid",
+      "version": "3.8.0",
+      "author": "t3hkitty",
+      "description": "Beauty & The Beast Grand Bookcase Library view for YAML sidecars (.md/dcmd).",
+      "enabledByDefault": true
+    },
+    {
+      "id": "custom-monetizer-plugin",
+      "name": "Custom Referral & Monetization Plugin Template",
+      "version": "1.0.0",
+      "author": "Sovereign Community",
+      "description": "Developer template for attaching custom non-intrusive referral codes or donation links.",
+      "enabledByDefault": false
+    },
+    {
+      "id": "obsidian-notion-sync",
+      "name": "Obsidian & Notion Vault Sync Engine",
+      "version": "3.8.0",
+      "author": "t3hkitty",
+      "description": "Generates 100% compliant Obsidian Vault sidecars with wikilinks and YAML frontmatter.",
+      "enabledByDefault": true
+    },
+    {
+      "id": "micro-tweets",
+      "name": "Live Micro-Tweets Reader Reaction Stream",
+      "version": "3.8.0",
+      "author": "t3hkitty",
+      "description": "Post live expressive micro-tweet reactions directly into companion .md sidecars.",
+      "enabledByDefault": true
+    }
+  ]
+}
