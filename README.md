@@ -26,6 +26,10 @@ Every plugin implements the `LcmdPlugin` interface defined in `src/types/plugins
 3. **🗺️ Interactive 3D Zettelkasten Graph (`WebGlZettelGraphPlugin`)**:
    - *Concept*: Parses local wiki-links (`[[Note Name]]`) dynamically at build time and renders an interactive canvas force-directed graph. Clicking nodes navigates the app's workspace directly to that target note.
 
+4. **🦊 Kitsune Persona Engine (`KitsunePersonaPlugin`)**:
+   - *Concept*: Implements the `.mask` framework for voluntary security theater. It parses rule-bound Kitsune stat blocks in plaintext sidecars and displays interactive, high-density ASCII avatars that pivot their state to avoid the uncanny valley.
+
+
 ---
 
 ## 🌐 How to Build & Host Your Own Plugin Repository
